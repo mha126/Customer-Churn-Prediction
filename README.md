@@ -1,4 +1,4 @@
-# 📊 Customer Churn Classifier (Tabular ML Project)
+# 📊 Customer Churn Classifier 
 
 This project trains a **classic machine learning model** on a **tabular customer churn dataset**.
 
@@ -63,8 +63,4 @@ Churn probability: 0.78
 Predicted churn label: 1 (1 = churn, 0 = stay)
 ```
 
-## 🧠 CV description
 
-You can describe this project on your CV as:
-
-> Developed a customer churn prediction model on tabular data using scikit-learn. Built a full pipeline with preprocessing, feature encoding, train/test split, and a RandomForest classifier, and exposed a simple CLI for inference on new customer profiles.
